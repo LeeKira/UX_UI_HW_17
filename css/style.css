@@ -1,7 +1,7 @@
 .inline-block{
     display: inline-block;
     vertical-align: top;
-    font-size: 24;
+    font-size: 48;
     /*text-align: justify;*/
 }
 header{
@@ -12,8 +12,8 @@ header{
 }
 .logo{
     float:left;
-    max-width: 230px;
-    max-height:250px;
+    max-width: 130px;
+    max-height:150px;
   /*  align: left;*/
 
     
@@ -25,6 +25,7 @@ section{
 body{
     background-color: 237,237,237;
 }
+
 p{
     font-size: 48;
     width: 90%;
@@ -35,7 +36,7 @@ a {
 }
 nav{
     width: 100%;
-   padding: 1%
+   padding: 1%;
 
 }
 ul{
@@ -47,9 +48,9 @@ li{
 }
 .heroImg{
     height: 600px;
-    padding: 15px;
+    /*adding: 15px;*/
 }
-hr.solid{
+.solid{
     border-top: 2px solid #222222;
 }
 .content{
